@@ -1,4 +1,4 @@
-- 👋 ola meu nome é jana 
+- 👋 ola meu nome é janaina
 - 👀 meu interrsse é compartilhar projetos com o resto do mundo
 - 🌱 estou aprendendo a trabalhar com a plataforma github
 - 💞️ estou procuranda colaborar com as tecnologia da minha escola
