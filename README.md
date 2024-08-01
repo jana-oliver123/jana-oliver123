@@ -1,12 +1,15 @@
-- 👋 ola meu nome é janaina
-- 👀 meu interrsse é compartilhar projetos com o resto do mundo
-- 🌱 estou aprendendo a trabalhar com a plataforma github
-- 💞️ estou procuranda colaborar com as tecnologia da minha escola
-- 📫 eu sou uma pessoa tranquila
-- 😄 ela.dela 
-- ⚡ 
+### boas vindas ou meu perfil 🖤
 
-<!---
-jana-oliver123/jana-oliver123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+- 👋 ola meu nome é janaina
+- 😄 ela.dela 
+- 🌱 estou aprendendo a trabalhar com a plataforma github, e no desenvolvimento na linguagem javascript
+- 💞️ estou procuranda colaborar com as tecnologia da minha escola 
+- ⚡ utilizo esse espaço para minha organização e compartilhamentos dos meus projetos desenvolvidos
+
+### para entrar em contato comigo 📫
+📧 jana225487@gmail.com
+
+@jana_oliver1712
+
+![](https://media1.tenor.com/m/uPKlSs6f4NkAAAAd/bora-la-entao-lets-go-then.gif)
